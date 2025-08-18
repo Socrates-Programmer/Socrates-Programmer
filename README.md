@@ -6,18 +6,50 @@
 ---
 
 ## 📊 Nivel de dominio en Tecnologías
+<div align="center">
 
-- 🐍 Python ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge)
-- ⚡ C# / .NET ![C#](https://img.shields.io/badge/75%25-green?style=for-the-badge)
-- 🌐 JavaScript ![JS](https://img.shields.io/badge/70%25-yellow?style=for-the-badge)
-- 🐘 PostgreSQL ![Postgres](https://img.shields.io/badge/80%25-brightgreen?style=for-the-badge)
-- 🍃 MongoDB ![Mongo](https://img.shields.io/badge/65%25-yellowgreen?style=for-the-badge)
-- 🐬 MySQL/SQLite ![SQL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge)
-- ⚛️ React ![React](https://img.shields.io/badge/60%25-yellow?style=for-the-badge)
-- 🐳 Docker ![Docker](https://img.shields.io/badge/50%25-orange?style=for-the-badge)
-- 🧩 SQLAlchemy ![SQLAlchemy](https://img.shields.io/badge/80%25-brightgreen?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
 
-![Mis habilidades](https://github-readme-skill-bars.vercel.app/api/de?languages=Python,JavaScript,React,PostgreSQL,MongoDB,SQLAlchemy&background=000000&width=600)
+🐍 **Python**  
+<img src="https://img.shields.io/badge/90%25-brightgreen?style=plastic" />
+
+⚡ **C# / .NET**  
+<img src="https://img.shields.io/badge/75%25-green?style=plastic" />
+
+🌐 **JavaScript**  
+<img src="https://img.shields.io/badge/70%25-yellow?style=plastic" />
+
+🐘 **PostgreSQL**  
+<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
+
+</td>
+<td align="center">
+
+🍃 **MongoDB**  
+<img src="https://img.shields.io/badge/65%25-yellowgreen?style=plastic" />
+
+🐬 **MySQL/SQLite**  
+<img src="https://img.shields.io/badge/85%25-brightgreen?style=plastic" />
+
+⚛️ **React**  
+<img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
+
+🐳 **Docker**  
+<img src="https://img.shields.io/badge/50%25-orange?style=plastic" />
+
+🧩 **SQLAlchemy**  
+<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
 
 
 ---

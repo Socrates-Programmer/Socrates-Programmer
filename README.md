@@ -6,23 +6,11 @@
 ---
 
 
-## 📊 Tecnologías por frecuencia (repositorios)
+## 📊 Lenguajes más usados (auto)
 <p align="center">
-  <img src="./gh_langs_donut.svg" alt="Tecnologías por frecuencia (lenguaje primario por repo)" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socrates-Programmer&layout=compact&hide_title=true" />
 </p>
 
-<div align="center">
-
-| Lenguaje    | Repos | % |
-|-------------|------:|--:|
-| Python      | 7     | 58% |
-| HTML        | 2     | 17% |
-| JavaScript  | 1     | 8%  |
-| C#          | 1     | 8%  |
-| Java        | 1     | 8%  |
-
-<sub>*Fuente: lenguaje primario visible en la pestaña **Repositories** de GitHub (18-ago-2025).* </sub>
-</div>
 
 
 

@@ -6,47 +6,24 @@
 ---
 
 
-## 📊 Nivel de dominio en Tecnologías
+## 📊 Tecnologías por frecuencia (repositorios)
+<p align="center">
+  <img src="./gh_langs_donut.svg" alt="Tecnologías por frecuencia (lenguaje primario por repo)" width="420">
+</p>
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+| Lenguaje    | Repos | % |
+|-------------|------:|--:|
+| Python      | 7     | 58% |
+| HTML        | 2     | 17% |
+| JavaScript  | 1     | 8%  |
+| C#          | 1     | 8%  |
+| Java        | 1     | 8%  |
 
-🐍 **Python**  
-<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
-
-
-🌐 **JavaScript**  
-<img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
-
-🐘 **PostgreSQL**  
-<img src="https://img.shields.io/badge/60%25-brightgreen?style=plastic" />
-
-🐬 **MySQL/SQLite**  
-<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
-
-</td>
-<td align="center">
-
-🍃 **MongoDB**  
-<img src="https://img.shields.io/badge/65%25-yellowgreen?style=plastic" />
-
-
-⚛️ **React**  
-<img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
-
-🐳 **Docker**  
-<img src="https://img.shields.io/badge/50%25-orange?style=plastic" />
-
-🧩 **SQLAlchemy**  
-<img src="https://img.shields.io/badge/65%25-brightgreen?style=plastic" />
-
-</td>
-</tr>
-</table>
-
+<sub>*Fuente: lenguaje primario visible en la pestaña **Repositories** de GitHub (18-ago-2025).* </sub>
 </div>
+
 
 
 ---

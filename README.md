@@ -14,7 +14,7 @@
 <td align="center">
 
 🐍 **Python**  
-<img src="https://img.shields.io/badge/90%25-brightgreen?style=plastic" />
+<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
 
 
 🌐 **JavaScript**  

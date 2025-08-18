@@ -16,10 +16,10 @@
 ## 🛠️ Tecnologías y Herramientas
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
   <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flask,dotnet,react,nodejs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,bootstrap" />
   <br/>
   <!-- Bases de datos y otros -->
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,git,linux,vscode" />

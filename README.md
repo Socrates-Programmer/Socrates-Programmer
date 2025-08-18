@@ -50,7 +50,7 @@
 
 </div>
 
-## 📊 Lenguajes más usados (auto)
+## 📊 Lenguajes más usados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socrates-Programmer&layout=compact&hide_title=true" />
 </p>

@@ -15,14 +15,22 @@
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="center">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,bootstrap" />
-  <br/>
-  <!-- Bases de datos y otros -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,git,DevOps" />
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<br/>
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,bootstrap" />
+<br/>
+
+<!-- Bases de datos y otros -->
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,docker,git" />
+<br/>
+
+<!-- Otros (badges personalizados) -->
+<img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 </p>
 
 ---

@@ -6,7 +6,7 @@
 ---
 
 
-## 📊 Lenguajes más usados (auto)
+
 
 ## 📊 Nivel de dominio en Tecnologías
 <div align="center">
@@ -16,16 +16,13 @@
 <td align="center">
 
 🐍 **Python**  
-<img src="https://img.shields.io/badge/90%25-brightgreen?style=plastic" />
-
-⚡ **C# / .NET**  
-<img src="https://img.shields.io/badge/75%25-green?style=plastic" />
+<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
 
 🌐 **JavaScript**  
-<img src="https://img.shields.io/badge/70%25-yellow?style=plastic" />
+<img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
 
 🐘 **PostgreSQL**  
-<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
+<img src="https://img.shields.io/badge/60%25-brightgreen?style=plastic" />
 
 </td>
 <td align="center">
@@ -34,7 +31,7 @@
 <img src="https://img.shields.io/badge/65%25-yellowgreen?style=plastic" />
 
 🐬 **MySQL/SQLite**  
-<img src="https://img.shields.io/badge/85%25-brightgreen?style=plastic" />
+<img src="https://img.shields.io/badge/75%25-brightgreen?style=plastic" />
 
 ⚛️ **React**  
 <img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
@@ -43,7 +40,7 @@
 <img src="https://img.shields.io/badge/50%25-orange?style=plastic" />
 
 🧩 **SQLAlchemy**  
-<img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />
+<img src="https://img.shields.io/badge/70%25-brightgreen?style=plastic" />
 
 </td>
 </tr>
@@ -51,6 +48,7 @@
 
 </div>
 
+## 📊 Lenguajes más usados (auto)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socrates-Programmer&layout=compact&hide_title=true" />
 </p>

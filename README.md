@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=flask,react,nodejs,bootstrap" />
   <br/>
   <!-- Bases de datos y otros -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,git,api" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,docker,git,DevOps" />
 </p>
 
 ---

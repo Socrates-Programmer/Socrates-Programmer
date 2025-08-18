@@ -4,19 +4,19 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Computación | Desarrollador Full-Stack 🚀</h3>
 
 ---
+
 ## 📊 Nivel de dominio en Tecnologías
 
-| Tecnología        | Dominio |
-|-------------------|---------|
-| 🐍 Python         | ![90%](https://progress-bar.dev/90/?title=90%) |
-| ⚡ C# / .NET       | ![75%](https://progress-bar.dev/75/?title=75%) |
-| 🌐 JavaScript     | ![70%](https://progress-bar.dev/70/?title=70%) |
-| 🐘 PostgreSQL     | ![80%](https://progress-bar.dev/80/?title=80%) |
-| 🍃 MongoDB        | ![65%](https://progress-bar.dev/65/?title=65%) |
-| 🐬 MySQL/SQLite   | ![85%](https://progress-bar.dev/85/?title=85%) |
-| ⚛️ React          | ![60%](https://progress-bar.dev/60/?title=60%) |
-| 🐳 Docker         | ![50%](https://progress-bar.dev/50/?title=50%) |
-| 🧩 SQLAlchemy     | ![80%](https://progress-bar.dev/80/?title=80%) |
+- 🐍 Python ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge)
+- ⚡ C# / .NET ![C#](https://img.shields.io/badge/75%25-green?style=for-the-badge)
+- 🌐 JavaScript ![JS](https://img.shields.io/badge/70%25-yellow?style=for-the-badge)
+- 🐘 PostgreSQL ![Postgres](https://img.shields.io/badge/80%25-brightgreen?style=for-the-badge)
+- 🍃 MongoDB ![Mongo](https://img.shields.io/badge/65%25-yellowgreen?style=for-the-badge)
+- 🐬 MySQL/SQLite ![SQL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge)
+- ⚛️ React ![React](https://img.shields.io/badge/60%25-yellow?style=for-the-badge)
+- 🐳 Docker ![Docker](https://img.shields.io/badge/50%25-orange?style=for-the-badge)
+- 🧩 SQLAlchemy ![SQLAlchemy](https://img.shields.io/badge/80%25-brightgreen?style=for-the-badge)
+
 
 
 ---

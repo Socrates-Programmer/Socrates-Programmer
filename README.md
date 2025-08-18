@@ -26,7 +26,7 @@
 </p>
 
 ---
-
+<!-- 
 ## 📌 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -36,6 +36,7 @@
 | 📊 **Dashboard de Estadísticas** | Visualización de datos en tiempo real | .NET, Chart.js, PostgreSQL |
 
 ---
+-->
 
 ## 📫 Cómo contactarme
 <p align="center">
@@ -55,12 +56,6 @@
 - 🔭 Me gusta automatizar tareas con **Python + Bash**  
 - 🕹️ Gamer apasionado y creador de proyectos relacionados a videojuegos  
 - 🎯 Mi meta es convertirme en **Arquitecto de Software / DevOps**  
-
----
-
-## 📝 Extra
-- Puedes agregar secciones como **blog posts**, **últimos commits**, **certificaciones**, etc.  
-- También puedes usar [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) para mostrar logros.  
 
 ---
 

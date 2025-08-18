@@ -4,12 +4,20 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Computación | Desarrollador Full-Stack 🚀</h3>
 
 ---
+## 📊 Nivel de dominio en Tecnologías
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="estadísticas github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="lenguajes más usados" height="165"/>
-</p>
+| Tecnología        | Dominio |
+|-------------------|---------|
+| 🐍 Python         | ![90%](https://progress-bar.dev/90/?title=90%) |
+| ⚡ C# / .NET       | ![75%](https://progress-bar.dev/75/?title=75%) |
+| 🌐 JavaScript     | ![70%](https://progress-bar.dev/70/?title=70%) |
+| 🐘 PostgreSQL     | ![80%](https://progress-bar.dev/80/?title=80%) |
+| 🍃 MongoDB        | ![65%](https://progress-bar.dev/65/?title=65%) |
+| 🐬 MySQL/SQLite   | ![85%](https://progress-bar.dev/85/?title=85%) |
+| ⚛️ React          | ![60%](https://progress-bar.dev/60/?title=60%) |
+| 🐳 Docker         | ![50%](https://progress-bar.dev/50/?title=50%) |
+| 🧩 SQLAlchemy     | ![80%](https://progress-bar.dev/80/?title=80%) |
+
 
 ---
 

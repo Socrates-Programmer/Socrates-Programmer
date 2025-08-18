@@ -1,6 +1,6 @@
 <!-- Perfil Especializado de GitHub -->
 
-<h1 align="center">👋 ¡Hola, soy David!</h1>
+<h1 align="center">👋 ¡Hola, soy Marcos Avila</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Computación | Desarrollador Full-Stack 🚀</h3>
 
 ---

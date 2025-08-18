@@ -16,11 +16,9 @@
 🐍 **Python**  
 <img src="https://img.shields.io/badge/90%25-brightgreen?style=plastic" />
 
-⚡ **C# / .NET**  
-<img src="https://img.shields.io/badge/75%25-green?style=plastic" />
 
 🌐 **JavaScript**  
-<img src="https://img.shields.io/badge/70%25-yellow?style=plastic" />
+<img src="https://img.shields.io/badge/60%25-yellow?style=plastic" />
 
 🐘 **PostgreSQL**  
 <img src="https://img.shields.io/badge/80%25-brightgreen?style=plastic" />

@@ -24,11 +24,13 @@
 🐘 **PostgreSQL**  
 <img src="https://img.shields.io/badge/60%25-brightgreen?style=plastic" />
 
+🍃 **MongoDB**  
+<img src="https://img.shields.io/badge/65%25-yellowgreen?style=plastic" />
+
 </td>
 <td align="center">
 
-🍃 **MongoDB**  
-<img src="https://img.shields.io/badge/65%25-yellowgreen?style=plastic" />
+
 
 🐬 **MySQL/SQLite**  
 <img src="https://img.shields.io/badge/75%25-brightgreen?style=plastic" />

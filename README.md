@@ -17,6 +17,7 @@
 - 🐳 Docker ![Docker](https://img.shields.io/badge/50%25-orange?style=for-the-badge)
 - 🧩 SQLAlchemy ![SQLAlchemy](https://img.shields.io/badge/80%25-brightgreen?style=for-the-badge)
 
+![Mis habilidades](https://github-readme-skill-bars.vercel.app/api/de?languages=Python,JavaScript,React,PostgreSQL,MongoDB,SQLAlchemy&background=000000&width=600)
 
 
 ---

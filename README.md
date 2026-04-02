@@ -51,8 +51,9 @@
 </div>
 
 ## 📊 Lenguajes más usados
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socrates-Programmer&layout=compact&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socrates-Programmer&layout=compact&hide_title=true&langs_count=8&theme=tokyonight" />
 </p>
 
 

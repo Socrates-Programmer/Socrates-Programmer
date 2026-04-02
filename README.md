@@ -112,28 +112,26 @@ class MarcosAvila:
 
 <div align="center">
 
-<!-- Stats generales — servicio estable de Repobeats/githubtrends -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosavila3005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<!--
+  ✅ ESTADÍSTICAS AUTO-GENERADAS POR GITHUB ACTIONS
+  Estas imágenes viven en tu propio repositorio — no dependen de ningún servidor externo.
+  Instrucciones de setup al final del README.
+-->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosavila3005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak con servicio alternativo más estable -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Marcosavila3005&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+<img height="180em" src="./github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
 <div align="center">
 
-<!-- Gráfica de actividad — muy visual y confiable -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcosavila3005&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="./stats-card.svg" alt="Stats Card" />
+&nbsp;&nbsp;
+<img height="180em" src="./langs-card.svg" alt="Top Languages" />
 
 </div>
 
-> 💡 **Nota:** Las tarjetas de estadísticas dependen de servicios externos. Si ves íconos rotos, puede ser una caída temporal — recarga la página más tarde.
+> ⚙️ **¿Cómo funciona?** Ver la sección [Setup de GitHub Actions](#️-setup-de-github-actions) al final.
+
 
 
 ---

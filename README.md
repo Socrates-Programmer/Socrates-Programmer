@@ -112,17 +112,29 @@ class MarcosAvila:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<!-- Stats generales — servicio estable de Repobeats/githubtrends -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosavila3005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosavila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosavila3005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcosavila&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+<!-- Streak con servicio alternativo más estable -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Marcosavila3005&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 
 </div>
+
+<div align="center">
+
+<!-- Gráfica de actividad — muy visual y confiable -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcosavila3005&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+> 💡 **Nota:** Las tarjetas de estadísticas dependen de servicios externos. Si ves íconos rotos, puede ser una caída temporal — recarga la página más tarde.
+
 
 ---
 
@@ -131,9 +143,9 @@ class MarcosAvila:
 ```bash
 $ pip install knowledge
 
-> Instalando: Data Science & Machine Learning...  ████████░░░░  67%
-> Instalando: Software Architecture Patterns...   ██████░░░░░░  52%
-> Instalando: Advanced DevOps & CI/CD...          ████░░░░░░░░  38%
+> Instalando: Data Science & Machine Learning... 
+> Instalando: Software Architecture Patterns...  
+> Instalando: Advanced DevOps & CI/CD...          
 
 ✔ Curiosidad instalada correctamente. Versión: ∞
 ```

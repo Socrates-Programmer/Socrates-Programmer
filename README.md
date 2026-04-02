@@ -113,7 +113,6 @@
 ---
 
 ## 🌱 Actualmente aprendiendo
-- **APIs seguras** con JWT y OAuth2  
 - **Data Science & Machine Learning**
 - **Software architecture**
 

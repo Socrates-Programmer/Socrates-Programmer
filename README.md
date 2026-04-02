@@ -108,31 +108,23 @@ class MarcosAvila:
 
 ---
 
+---
+
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
 
-<!--
-  ✅ ESTADÍSTICAS AUTO-GENERADAS POR GITHUB ACTIONS
-  Estas imágenes viven en tu propio repositorio — no dependen de ningún servidor externo.
-  Instrucciones de setup al final del README.
--->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
 
-<img height="180em" src="./github-metrics.svg" alt="GitHub Metrics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosavila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="./stats-card.svg" alt="Stats Card" />
-&nbsp;&nbsp;
-<img height="180em" src="./langs-card.svg" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=marcosavila&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 </div>
-
-> ⚙️ **¿Cómo funciona?** Ver la sección [Setup de GitHub Actions](#️-setup-de-github-actions) al final.
-
-
 
 ---
 
